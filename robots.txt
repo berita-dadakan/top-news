@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berita-dadakan.github.io/top-news/sitemap.xml
